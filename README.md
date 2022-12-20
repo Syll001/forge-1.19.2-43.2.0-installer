@@ -1,1 +1,0 @@
-# forge-1.19.2-43.2.0-installer
